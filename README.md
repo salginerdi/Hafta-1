@@ -1,2 +1,2 @@
 # Patika-Bootcamp-Hafta-1
-Bootcamp ilk hafta örnekleri burada yer almaktadır.
+"Patika Plus Bootcamp" ilk hafta ödevlerinin yer aldığı klasör.
