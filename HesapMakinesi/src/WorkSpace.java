@@ -24,7 +24,11 @@ public class WorkSpace {
         } else if (select == 3) {
             System.out.println("Çarpım: " + (n1 * n2));
         } else if (select == 4) {
+            if(n2 != 0){
             System.out.println("Bölüm: " + (n1 / n2));
+            else{
+            System.out.println("Bir sayı sıfır ile bölünemez!");
+            }
         } else {
             System.out.println("Lütfen 1 ve 4 arasında bir rakam seçiniz1");
         }
